@@ -1,0 +1,2 @@
+# Amzon-Affiliate-CodeGen
+AmazonアソシエイトURLを一瞬で、WordPressにも対応のHTMLに変換します。画像と値段とリンクボタン
